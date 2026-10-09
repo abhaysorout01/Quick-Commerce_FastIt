@@ -58,6 +58,9 @@ header button{
     #first-img{
         width: 370px;
     }
+    .product-list img{
+        width: 90px;
+    }
 }
 .product-list{
     display: flex;
