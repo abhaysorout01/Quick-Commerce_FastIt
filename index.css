@@ -58,14 +58,11 @@ header button{
     #first-img{
         width: 370px;
     }
-    .product-list img{
-        width: 90px;
-    }
 }
 .product-list{
     display: flex;
     overflow-x: scroll;
 }
 .product-list img{
-    width: 100px;
+    width: 90px;
 }
